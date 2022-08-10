@@ -2,7 +2,7 @@
 - 👀 I’m interested in Backend Engineering
 - 🌱 I’m currently learning python ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me okonkwopaschal@gmail.com/Twitter-@Ugonna06
+- 📫 How to reach me okonkwopaschal@gmail.com Twitter-@Ugonna06
 
 <!---
 Hakiyuu/Hakiyuu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
